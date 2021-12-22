@@ -1,0 +1,19 @@
+[22-Dec-2021 04:20:30 Europe/Berlin] inicio de aplicacion
+[22-Dec-2021 04:20:30 Europe/Berlin] App:: __construct() -> no existe aun la carpeta controllers/login.php
+[22-Dec-2021 04:20:30 Europe/Berlin] PHP Warning:  require_once(controllers/login.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\Dentista\libs\app.php on line 23
+[22-Dec-2021 04:20:37 Europe/Berlin] inicio de aplicacion
+[22-Dec-2021 04:20:37 Europe/Berlin] App:: __construct() -> no existe aun la carpeta controllers/login.php
+[22-Dec-2021 04:20:37 Europe/Berlin] PHP Warning:  require_once(controllers/login.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\Dentista\libs\app.php on line 23
+[22-Dec-2021 04:20:54 Europe/Berlin] inicio de aplicacion
+[22-Dec-2021 04:20:54 Europe/Berlin] App:: __construct() -> no existe aun la carpeta controllers/login.php
+[22-Dec-2021 04:20:54 Europe/Berlin] PHP Warning:  require_once(controllers/login.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\Dentista\libs\app.php on line 23
+[22-Dec-2021 04:21:04 Europe/Berlin] inicio de aplicacion
+[22-Dec-2021 04:21:04 Europe/Berlin] App:: __construct() -> no existe aun la carpeta controllers/login.php
+[22-Dec-2021 04:21:04 Europe/Berlin] PHP Warning:  require_once(controllers/login.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\Dentista\libs\app.php on line 23
+[22-Dec-2021 04:25:26 Europe/Berlin] inicio de aplicacion
+[22-Dec-2021 04:25:26 Europe/Berlin] App:: __construct() -> no existe aun la carpeta controllers/login.php
+[22-Dec-2021 04:25:26 Europe/Berlin] PHP Warning:  require_once(controllers/login.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\Dentista\libs\app.php on line 23
+[22-Dec-2021 04:45:11 Europe/Berlin] inicio de aplicacion
+[22-Dec-2021 04:45:11 Europe/Berlin] App:: __construct() -> no existe aun la carpeta controllers/login.php
+[22-Dec-2021 04:45:56 Europe/Berlin] inicio de aplicacion
+[22-Dec-2021 04:45:56 Europe/Berlin] App:: __construct() -> ya existe la carpeta controllers/login.php
