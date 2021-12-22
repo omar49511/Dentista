@@ -1,0 +1,169 @@
+* {
+    /* el margen para los cuatro lados es 0 */
+    margin         : 0;
+    /* establece el espacio de relleno requerido por todos los lados de un elemento en 0. */
+    padding        : 0;
+    box-sizing     : border-box;
+    text-decoration: none;
+    /* pone una fuente mas bonita */
+    font-family    : sans-serif;
+}
+
+.fondo {
+    overflow         : hidden;
+    background-image : url('../imagenes/photo-of-smiling-dentist-standing-with-arms-crossed-with-her-colleague-showing-okay-sign.jpg');
+    background-repeat: no-repeat;
+    background-size  : 100% 100vh;
+    display          : flex;
+    place-items      : center;
+    height           : 95.5vh;
+}
+
+.caja {
+    position: relative;
+    margin  : auto;
+}
+
+.caja .cuadrado {
+    position       : absolute;
+    backdrop-filter: blur(5px);
+    box-shadow     : 0 30px 50px rgba(0, 0, 0, 0.3);
+    border         : 1px solid rgba(255, 255, 255, 0.4);
+    border-right   : 1px solid rgba(255, 255, 255, 0.2);
+    border-bottom  : 1px solid rgba(255, 255, 255, 0.2);
+    background     : rgba(255, 255, 255, 0.2);
+    border-radius  : 10px;
+    animation      : animacion 10s linear infinite;
+    animation-delay: calc(-1s * var(--i));
+}
+
+@keyframes animacion {
+
+    0%,
+    100% {
+        transform: translateY(-40px);
+    }
+
+    50% {
+        transform: translateY(40px);
+    }
+}
+
+.caja .cuadrado:nth-child(1) {
+    top   : -50px;
+    right : -60px;
+    width : 100px;
+    height: 100px;
+}
+
+.caja .cuadrado:nth-child(2) {
+    top    : 150px;
+    left   : -100px;
+    width  : 120px;
+    height : 120px;
+    z-index: 2;
+}
+
+.caja .cuadrado:nth-child(3) {
+    bottom : 50px;
+    right  : -60px;
+    width  : 80px;
+    height : 80px;
+    z-index: 2;
+}
+
+.caja .cuadrado:nth-child(4) {
+    bottom : -80px;
+    left   : 100px;
+    width  : 50px;
+    height : 50px;
+    z-index: 2;
+}
+
+.caja .cuadrado:nth-child(5) {
+    top   : -80px;
+    left  : 140px;
+    width : 60px;
+    height: 60px;
+}
+
+.contenedor {
+    margin         : auto;
+    position       : relative;
+    width          : 350px;
+    min-height     : 400px;
+    background     : rgba(255, 255, 255, 0.2);
+    border-radius  : 10px;
+    display        : flex;
+    justify-content: center;
+    align-items    : center;
+    backdrop-filter: blur(5px);
+    box-shadow     : 0 30px 50px rgba(0, 0, 0, 0.3);
+    border         : 1px solid rgba(255, 255, 255, 0.4);
+    border-right   : 1px solid rgba(255, 255, 255, 0.2);
+    border-bottom  : 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.formulario {
+    position: relative;
+    width   : 100%;
+    height  : 100%;
+    padding : 40px;
+}
+
+.formulario h2 {
+    position     : relative;
+    color        : rgb(24, 24, 24);
+    font-size    : 24px;
+    font-weight  : 600;
+    margin-bottom: 40px;
+}
+
+.formulario .caja_entrada {
+    width     : 100%;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.formulario .caja_entrada input {
+    width         : 100%;
+    background    : rgba(157, 204, 236, 0.3);
+    border        : none;
+    outline       : none;
+    padding       : 10px 20px;
+    border-radius : 35px;
+    border        : 1px solid rgba(255, 255, 255, 0.4);
+    border-right  : 1px solid rgba(255, 255, 255, 0.2);
+    border-bottom : 1px solid rgba(255, 255, 255, 0.2);
+    font-size     : 16px;
+    letter-spacing: 1px;
+    box-shadow    : 0 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+.formulario .caja_entrada input::placeholder {
+    color: rgb(24, 24, 24);
+}
+
+.formulario .caja_entrada input[type="submit"] {
+    background: rgba(248, 245, 245, 0.705);
+    color     : rgb(24, 24, 24);
+    max-width : 100px;
+}
+
+h2 {
+    text-align: center;
+    width     : 100%
+}
+
+.text-footer {
+    display    : block;
+    margin-top : 40px;
+    text-align : center;
+    color      : #414141;
+    font-weight: 300;
+}
+
+.text-footer a {
+    color      : #029EE1;
+    font-weight: 500;
+}
