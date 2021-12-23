@@ -17,3 +17,189 @@
 [22-Dec-2021 04:45:11 Europe/Berlin] App:: __construct() -> no existe aun la carpeta controllers/login.php
 [22-Dec-2021 04:45:56 Europe/Berlin] inicio de aplicacion
 [22-Dec-2021 04:45:56 Europe/Berlin] App:: __construct() -> ya existe la carpeta controllers/login.php
+[23-Dec-2021 01:16:39 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 01:16:39 Europe/Berlin] App:: __construct() -> ya existe la carpeta controllers/login.php
+[23-Dec-2021 01:32:11 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 01:32:11 Europe/Berlin] App:: __construct() -> ya existe la carpeta controllers/login.php
+[23-Dec-2021 01:32:37 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 01:32:37 Europe/Berlin] App:: __construct() -> ya existe la carpeta controllers/login.php
+[23-Dec-2021 01:32:39 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 01:32:39 Europe/Berlin] App:: __construct() -> ya existe la carpeta controllers/login.php
+[23-Dec-2021 01:34:46 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 01:34:46 Europe/Berlin] App:: __construct() -> ya existe la carpeta controllers/login.php
+[23-Dec-2021 01:40:51 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 01:40:51 Europe/Berlin] App:: __construct() -> ya existe la carpeta controllers/login.php
+[23-Dec-2021 01:41:18 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 01:41:18 Europe/Berlin] App:: __construct() -> ya existe la carpeta controllers/login.php
+[23-Dec-2021 01:45:35 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 01:45:35 Europe/Berlin] App:: __construct() -> ya existe la carpeta controllers/login.php
+[23-Dec-2021 01:46:36 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 01:46:36 Europe/Berlin] App:: __construct() -> ya existe la carpeta controllers/login.php
+[23-Dec-2021 01:46:38 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 01:46:38 Europe/Berlin] App:: __construct() -> ya existe la carpeta controllers/login.php
+[23-Dec-2021 01:49:49 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 01:49:49 Europe/Berlin] App:: __construct() -> ya existe la carpeta controllers/login.php
+[23-Dec-2021 01:50:02 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 01:50:02 Europe/Berlin] App:: __construct() -> ya existe la carpeta controllers/login.php
+[23-Dec-2021 01:50:21 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 01:50:21 Europe/Berlin] App:: __construct() -> ya existe la carpeta controllers/login.php
+[23-Dec-2021 01:52:57 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 01:52:57 Europe/Berlin] App:: __construct() -> ya existe la carpeta controllers/login.php
+[23-Dec-2021 01:54:29 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 01:54:29 Europe/Berlin] App:: __construct() -> ya existe la carpeta controllers/login.php
+[23-Dec-2021 01:55:23 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 01:55:23 Europe/Berlin] App:: __construct() -> ya existe la carpeta controllers/login.php
+[23-Dec-2021 01:55:42 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 01:55:42 Europe/Berlin] App:: __construct() -> ya existe la carpeta controllers/login.php
+[23-Dec-2021 01:55:56 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 01:55:56 Europe/Berlin] App:: __construct() -> ya existe la carpeta controllers/login.php
+[23-Dec-2021 01:59:08 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 01:59:08 Europe/Berlin] App:: __construct() -> ya existe la carpeta controllers/login.php
+[23-Dec-2021 01:59:47 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 01:59:47 Europe/Berlin] App:: __construct() -> ya existe la carpeta controllers/login.php
+[23-Dec-2021 01:59:51 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 01:59:51 Europe/Berlin] App:: __construct() -> ya existe la carpeta controllers/login.php
+[23-Dec-2021 02:04:10 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 02:04:10 Europe/Berlin] App:: __construct() -> ya existe la carpeta controllers/login.php
+[23-Dec-2021 02:04:10 Europe/Berlin] Login :: __construct() -> inicio de login
+[23-Dec-2021 02:04:10 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 02:04:10 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "Errores" not found in C:\xampp\htdocs\Dentista\libs\app.php:71
+Stack trace:
+#0 C:\xampp\htdocs\Dentista\index.php(25): App->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\Dentista\libs\app.php on line 71
+[23-Dec-2021 02:06:33 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 02:06:33 Europe/Berlin] App:: __construct() -> ya existe la carpeta controllers/login.php
+[23-Dec-2021 02:06:33 Europe/Berlin] Login :: __construct() -> inicio de login
+[23-Dec-2021 02:06:37 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 02:06:37 Europe/Berlin] App:: __construct() -> ya existe la carpeta controllers/login.php
+[23-Dec-2021 02:06:37 Europe/Berlin] Login :: __construct() -> inicio de login
+[23-Dec-2021 02:06:48 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 02:06:48 Europe/Berlin] App:: __construct() -> ya existe la carpeta controllers/login.php
+[23-Dec-2021 02:06:48 Europe/Berlin] Login :: __construct() -> inicio de login
+[23-Dec-2021 02:08:12 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 02:08:12 Europe/Berlin] App:: __construct() -> ya existe la carpeta controllers/login.php
+[23-Dec-2021 02:08:12 Europe/Berlin] Login :: __construct() -> inicio de login
+[23-Dec-2021 02:08:12 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 02:08:12 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "Errores" not found in C:\xampp\htdocs\Dentista\libs\app.php:71
+Stack trace:
+#0 C:\xampp\htdocs\Dentista\index.php(25): App->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\Dentista\libs\app.php on line 71
+[23-Dec-2021 02:09:21 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 02:09:21 Europe/Berlin] App:: __construct() -> ya existe la carpeta controllers/login.php
+[23-Dec-2021 02:09:21 Europe/Berlin] Login :: __construct() -> inicio de login
+[23-Dec-2021 02:09:21 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 02:09:21 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "Errores" not found in C:\xampp\htdocs\Dentista\libs\app.php:71
+Stack trace:
+#0 C:\xampp\htdocs\Dentista\index.php(25): App->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\Dentista\libs\app.php on line 71
+[23-Dec-2021 02:09:26 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 02:09:26 Europe/Berlin] App:: __construct() -> ya existe la carpeta controllers/login.php
+[23-Dec-2021 02:09:26 Europe/Berlin] Login :: __construct() -> inicio de login
+[23-Dec-2021 02:09:26 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 02:09:26 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "Errores" not found in C:\xampp\htdocs\Dentista\libs\app.php:71
+Stack trace:
+#0 C:\xampp\htdocs\Dentista\index.php(25): App->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\Dentista\libs\app.php on line 71
+[23-Dec-2021 02:09:34 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 02:09:34 Europe/Berlin] App:: __construct() -> ya existe la carpeta controllers/login.php
+[23-Dec-2021 02:09:34 Europe/Berlin] Login :: __construct() -> inicio de login
+[23-Dec-2021 02:09:38 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 02:09:38 Europe/Berlin] App:: __construct() -> ya existe la carpeta controllers/login.php
+[23-Dec-2021 02:09:38 Europe/Berlin] Login :: __construct() -> inicio de login
+[23-Dec-2021 02:09:38 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 02:09:38 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "Errores" not found in C:\xampp\htdocs\Dentista\libs\app.php:71
+Stack trace:
+#0 C:\xampp\htdocs\Dentista\index.php(25): App->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\Dentista\libs\app.php on line 71
+[23-Dec-2021 02:09:40 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 02:09:40 Europe/Berlin] App:: __construct() -> ya existe la carpeta controllers/login.php
+[23-Dec-2021 02:09:40 Europe/Berlin] Login :: __construct() -> inicio de login
+[23-Dec-2021 02:09:40 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 02:09:40 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "Errores" not found in C:\xampp\htdocs\Dentista\libs\app.php:71
+Stack trace:
+#0 C:\xampp\htdocs\Dentista\index.php(25): App->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\Dentista\libs\app.php on line 71
+[23-Dec-2021 02:09:56 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 02:09:56 Europe/Berlin] App:: __construct() -> ya existe la carpeta controllers/login.php
+[23-Dec-2021 02:09:56 Europe/Berlin] Login :: __construct() -> inicio de login
+[23-Dec-2021 02:10:13 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 02:10:13 Europe/Berlin] App:: __construct() -> ya existe la carpeta controllers/login.php
+[23-Dec-2021 02:10:13 Europe/Berlin] Login :: __construct() -> inicio de login
+[23-Dec-2021 02:10:13 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 02:10:13 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "Errores" not found in C:\xampp\htdocs\Dentista\libs\app.php:71
+Stack trace:
+#0 C:\xampp\htdocs\Dentista\index.php(25): App->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\Dentista\libs\app.php on line 71
+[23-Dec-2021 02:10:25 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 02:10:25 Europe/Berlin] App:: __construct() -> ya existe la carpeta controllers/login.php
+[23-Dec-2021 02:10:25 Europe/Berlin] Login :: __construct() -> inicio de login
+[23-Dec-2021 02:17:54 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 02:17:54 Europe/Berlin] App:: __construct() -> ya existe la carpeta controllers/login.php
+[23-Dec-2021 02:17:54 Europe/Berlin] Login :: __construct() -> inicio de login
+[23-Dec-2021 02:18:07 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 02:18:07 Europe/Berlin] App:: __construct() -> ya existe la carpeta controllers/login.php
+[23-Dec-2021 02:18:07 Europe/Berlin] Login :: __construct() -> inicio de login
+[23-Dec-2021 02:18:23 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 02:18:23 Europe/Berlin] App:: __construct() -> ya existe la carpeta controllers/login.php
+[23-Dec-2021 02:18:23 Europe/Berlin] Login :: __construct() -> inicio de login
+[23-Dec-2021 02:19:11 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 02:19:11 Europe/Berlin] App:: __construct() -> ya existe la carpeta controllers/login.php
+[23-Dec-2021 02:19:11 Europe/Berlin] Login :: __construct() -> inicio de login
+[23-Dec-2021 02:27:22 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 02:27:22 Europe/Berlin] App:: __construct() -> ya existe la carpeta controllers/login.php
+[23-Dec-2021 02:27:22 Europe/Berlin] Login :: __construct() -> inicio de login
+[23-Dec-2021 02:27:27 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 02:27:27 Europe/Berlin] App:: __construct() -> ya existe la carpeta controllers/login.php
+[23-Dec-2021 02:27:27 Europe/Berlin] Login :: __construct() -> inicio de login
+[23-Dec-2021 02:27:34 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 02:27:34 Europe/Berlin] Errores::__construct()-> inicio de errores
+[23-Dec-2021 02:27:52 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 02:27:52 Europe/Berlin] App:: __construct() -> ya existe la carpeta controllers/login.php
+[23-Dec-2021 02:27:52 Europe/Berlin] Login :: __construct() -> inicio de login
+[23-Dec-2021 02:28:10 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 02:28:10 Europe/Berlin] App:: __construct() -> ya existe la carpeta controllers/login.php
+[23-Dec-2021 02:28:10 Europe/Berlin] Login :: __construct() -> inicio de login
+[23-Dec-2021 02:28:31 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 02:28:31 Europe/Berlin] Errores::__construct()-> inicio de errores
+[23-Dec-2021 02:35:39 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 02:35:39 Europe/Berlin] Errores::__construct()-> inicio de errores
+[23-Dec-2021 02:39:15 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 02:39:15 Europe/Berlin] Errores::__construct()-> inicio de errores
+[23-Dec-2021 02:39:15 Europe/Berlin] PHP Warning:  require(views/header.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\Dentista\views\errors\index.php on line 13
+[23-Dec-2021 02:39:21 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 02:39:21 Europe/Berlin] Errores::__construct()-> inicio de errores
+[23-Dec-2021 02:39:21 Europe/Berlin] PHP Warning:  require(views/header.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\Dentista\views\errors\index.php on line 13
+[23-Dec-2021 02:55:34 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 02:55:34 Europe/Berlin] App:: __construct() -> ya existe la carpeta controllers/login.php
+[23-Dec-2021 02:55:34 Europe/Berlin] Login :: __construct() -> inicio de login
+[23-Dec-2021 02:56:11 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 02:56:11 Europe/Berlin] App:: __construct() -> ya existe la carpeta controllers/login.php
+[23-Dec-2021 02:56:11 Europe/Berlin] Login :: __construct() -> inicio de login
+[23-Dec-2021 02:56:15 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 02:56:15 Europe/Berlin] Errores::__construct()-> inicio de errores
+[23-Dec-2021 02:56:15 Europe/Berlin] PHP Warning:  require(views/header.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\Dentista\views\errors\index.php on line 13
+[23-Dec-2021 02:58:07 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 02:58:07 Europe/Berlin] Errores::__construct()-> inicio de errores
+[23-Dec-2021 02:58:14 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 02:58:14 Europe/Berlin] App:: __construct() -> ya existe la carpeta controllers/login.php
+[23-Dec-2021 02:58:14 Europe/Berlin] Login :: __construct() -> inicio de login
+[23-Dec-2021 02:58:22 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 02:58:22 Europe/Berlin] Errores::__construct()-> inicio de errores
+[23-Dec-2021 02:58:25 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 02:58:25 Europe/Berlin] App:: __construct() -> ya existe la carpeta controllers/login.php
+[23-Dec-2021 02:58:25 Europe/Berlin] Login :: __construct() -> inicio de login
+[23-Dec-2021 03:05:01 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 03:05:01 Europe/Berlin] App:: __construct() -> ya existe la carpeta controllers/login.php
+[23-Dec-2021 03:05:01 Europe/Berlin] Login :: __construct() -> inicio de login
+[23-Dec-2021 03:05:08 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 03:05:08 Europe/Berlin] Errores::__construct()-> inicio de errores
+[23-Dec-2021 03:05:17 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 03:05:17 Europe/Berlin] App:: __construct() -> ya existe la carpeta controllers/login.php
+[23-Dec-2021 03:05:17 Europe/Berlin] Login :: __construct() -> inicio de login

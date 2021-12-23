@@ -11,7 +11,7 @@
 
 .fondo {
     overflow         : hidden;
-    background-image : url('../imagenes/photo-of-smiling-dentist-standing-with-arms-crossed-with-her-colleague-showing-okay-sign.jpg');
+    background-image : url('../img/photo-smiling-dentist-standing-with-arms-crossed-with-her-colleague-showing-okay-sign.jpg');
     background-repeat: no-repeat;
     background-size  : 100% 100vh;
     display          : flex;

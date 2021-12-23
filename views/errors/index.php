@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -6,11 +7,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
+    <link rel="stylesheet" href="public/css/style.css">
 </head>
 
 <body>
 
-    <?php require 'views/header.php'; ?>
+    <?php //require 'views/header.php'; ?>
     <div class="error-container">
         <div class="error-info">
             <h1 class="error404">404</h1>

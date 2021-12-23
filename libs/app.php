@@ -1,4 +1,5 @@
 <?php
+require_once 'controllers/errores.php';
 //la clase siempre empieza con mayuscula y se debe de llamar igual que el archivo
 class App
 {
@@ -39,7 +40,7 @@ class App
             //valida si existen metodos que cargar en la url
             if (isset($url[1])) {
                 //validamos si existe el metodo en la url vemos si existe dentro de la clase
-                if (method_exists($controller, $url[1]))
+                if (method_exists($controller, $url[1])) {
                     //validamos que existen los parametros de nuestros metodo
                     if (isset($url[2])) {
                         //contamos el numero de parametros, Nota: se le resta 2 para ignorar a la clase y los metodos
@@ -49,21 +50,28 @@ class App
                         //for que recorre nuestro arreglo url para guardar en nuestra arreglo los parametros
                         for ($i = 0; $i < $nparam; $i++) {
                             /*se suma 2 para que empiece desde la seccion de parametros 
-                        Ejemplo: $url=/0.Clase/1.Metodo/2.Parametro*/
+                            Ejemplo: $url=/0.Clase/1.Metodo/2.Parametro*/
                             array_push($params, $url[$i + 2]);
                         }
                         $controller->{$url[1]}($params);
                     } else {
                         /*el metodo no tiene parametros, se manda a llamar
-                    el metodo tal cual*/
+                        el metodo tal cual*/
                         $controller->{$url[1]}();
                     }
+                } else {
+                    //error no existe el metodo
+                    $controller = new Errores();
+                    $controller->render();
+                }
             } else {
                 //carga la pagina principal de cada controlador por default
                 $controller->render();
             }
         } else {
             //no existe el archivo, muestra una pagina de error 404
+            $controller = new Errores();
+            $controller->render();
         }
     }
 }

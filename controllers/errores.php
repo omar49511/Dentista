@@ -1,10 +1,10 @@
 <?php
-class Login extends Controller
-{
+
+class Errores extends Controller{
     function __construct()
     {
         parent::__construct();
-        error_log('Login :: __construct() -> inicio de login');
+        error_log('Errores::__construct()-> inicio de errores');
     }
     // function loadModel()
     // {
@@ -12,6 +12,6 @@ class Login extends Controller
     // }
     function render()
     {
-        $this->view->render('login/index');
+        $this->view->render('errors/index');
     }
 }
