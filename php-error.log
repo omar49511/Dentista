@@ -203,3 +203,6 @@ Stack trace:
 [23-Dec-2021 03:05:17 Europe/Berlin] inicio de aplicacion
 [23-Dec-2021 03:05:17 Europe/Berlin] App:: __construct() -> ya existe la carpeta controllers/login.php
 [23-Dec-2021 03:05:17 Europe/Berlin] Login :: __construct() -> inicio de login
+[23-Dec-2021 03:20:40 Europe/Berlin] inicio de aplicacion
+[23-Dec-2021 03:20:40 Europe/Berlin] App:: __construct() -> ya existe la carpeta controllers/login.php
+[23-Dec-2021 03:20:40 Europe/Berlin] Login :: __construct() -> inicio de login
